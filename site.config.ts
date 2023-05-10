@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'xml_convert_to_coco-py-e8e71968934d48e8a1bdb9fcc6815f6c',
+  rootNotionPageId: 'Geoffreyfan-Home-af163ab2f8354a1080f05f450dd26208',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Go for better future',
-  domain: 'https://yellow-mochi-c3d.notion.site/xml_convert_to_coco-py-e8e71968934d48e8a1bdb9fcc6815f6c',
+  domain: 'https://yellow-mochi-c3d.notion.site/Geoffreyfan-Home-af163ab2f8354a1080f05f450dd26208',
   author: 'geoffreyfan',
 
   // open graph metadata (optional)
